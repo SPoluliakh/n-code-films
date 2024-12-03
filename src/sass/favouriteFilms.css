@@ -1,0 +1,14 @@
+.page-title {
+    text-align: center;
+    padding: 20px 10px;
+    color: white;
+    font-size: 40px;
+}
+
+.favourite-list {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 50px 20px;
+}
