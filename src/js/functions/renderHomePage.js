@@ -1,0 +1,1 @@
+import { getPopularMovies } from "../api/getAPI";
