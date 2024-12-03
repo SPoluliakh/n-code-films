@@ -36,3 +36,5 @@ listOfFavouriteFilms.addEventListener('click', (event) => {
         })     
     })
 })
+
+console.log('works')
